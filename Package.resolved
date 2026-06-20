@@ -1,0 +1,42 @@
+{
+  "originHash" : "eb2a73a89d30ebeb25aa161b098e7d6a7caf78cdcfa61e23c409cf9ef92a5c2f",
+  "pins" : [
+    {
+      "identity" : "swift-docc-plugin",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-docc-plugin",
+      "state" : {
+        "revision" : "647c708be89f834fa6a6d4945442793a77ddf5b6",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swift-docc-symbolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/swiftlang/swift-docc-symbolkit",
+      "state" : {
+        "revision" : "b45d1f2ed151d057b54504d653e0da5552844e34",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-embeddings",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Dean151/swift-embeddings",
+      "state" : {
+        "revision" : "755754be2faf0987a16de4707c4e152b62c377b8",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swift-http-types",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-http-types.git",
+      "state" : {
+        "revision" : "db774a277f60063a32d854f2980299caf06da041",
+        "version" : "1.6.0"
+      }
+    }
+  ],
+  "version" : 3
+}
